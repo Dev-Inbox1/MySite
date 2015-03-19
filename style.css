@@ -1,0 +1,10 @@
+body {
+    background: #efefef url(images/symphony.png);
+    margin: 0;
+    padding: 0;
+}
+
+div.header {
+    height: 100px;
+    background: #101417
+}
