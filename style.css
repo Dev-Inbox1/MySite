@@ -1,10 +1,32 @@
 body {
-    background: #efefef url(images/headbg.jpg);
+    background: #6eef5b url(images/geometry2.png);
     margin: 0;
     padding: 0;
 }
 
 div.header {
     height: 100px;
-    background: #101417
+    background: #36624f
 }
+
+abbr {
+    border-bottom: 1px dashed #2d2418; /* Пунктирное подчеркивание текста */
+    color: #000080; /* Темно-синий цвет текста */
+}
+
+.letter {
+    color: red; /* Красный цвет символов */
+    font-size: 200%; /* Размер шрифта в процентах */
+    font-family: serif; /* Шрифт с засечками */
+    position: relative; /* Относительное позиционирование */
+    top: 5px;
+}
+
+/* Сдвиг сверху */
+
+div  {
+    background: #6fff81;
+    width: 500px;
+
+}
+
